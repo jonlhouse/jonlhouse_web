@@ -14,7 +14,6 @@ gem 'foundation-rails'
 gem 'haml-rails'
 gem 'high_voltage'
 
-gem 'under_construction'
 gem 'figaro'
 
 group :development do
