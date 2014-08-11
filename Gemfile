@@ -13,6 +13,9 @@ gem 'spring',        group: :development
 gem 'foundation-rails'
 gem 'haml-rails'
 gem 'high_voltage'
+
+gem 'under_construction'
+
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_21]
