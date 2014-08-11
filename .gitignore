@@ -80,3 +80,6 @@ pickle-email-*.html
 
 # ignore subline files
 *.sublime*
+
+# for Figaro
+config/application.yml
